@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://gulpjs.com">
+  <a href="https://gulpjs.com">
     <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
   </a>
 </p>
@@ -27,7 +27,7 @@ MIT
 [npm-image]: https://img.shields.io/npm/v/$PROJECT_NAME.svg?style=flat-square
 
 [ci-url]: https://github.com/gulpjs/$PROJECT_NAME/actions?query=workflow:dev
-[ci-image]: https://img.shields.io/github/workflow/status/gulpjs/$PROJECT_NAME/dev?style=flat-square
+[ci-image]: https://img.shields.io/github/actions/workflow/status/gulpjs/$PROJECT_NAME/dev.yml?branch=master&style=flat-square
 
 [coveralls-url]: https://coveralls.io/r/gulpjs/$PROJECT_NAME
 [coveralls-image]: https://img.shields.io/coveralls/gulpjs/$PROJECT_NAME/master.svg?style=flat-square
