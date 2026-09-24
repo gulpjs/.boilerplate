@@ -19,6 +19,8 @@
     "LICENSE"
   ],
   "scripts": {
+    "format-check": "prettier . --check",
+    "format-write": "prettier . --write",
     "lint": "eslint .",
     "pretest": "npm run lint",
     "test": "nyc mocha --async-only"
@@ -29,16 +31,14 @@
     "eslint-config-gulp": "7.0.0",
     "expect": "^27.0.0",
     "mocha": "^8.0.0",
-    "nyc": "^15.0.0"
+    "nyc": "^15.0.0",
+    "prettier": "3.9.6"
   },
   "nyc": {
     "reporter": [
       "lcov",
       "text-summary"
     ]
-  },
-  "prettier": {
-    "singleQuote": true
   },
   "keywords": []
 }
