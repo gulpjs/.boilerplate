@@ -4,6 +4,7 @@
   "description": "",
   "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
   "contributors": [],
+  "funding": "https://github.com/sponsors/gulpjs",
   "repository": "",
   "license": "MIT",
   "engines": {
