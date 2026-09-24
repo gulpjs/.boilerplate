@@ -36,9 +36,9 @@ MIT
 [npm-url]: https://www.npmjs.com/package/$PROJECT_NAME
 [npm-image]: https://img.shields.io/npm/v/$PROJECT_NAME.svg?style=flat-square
 
-[ci-url]: https://github.com/gulpjs/$PROJECT_NAME/actions?query=workflow:dev
-[ci-image]: https://img.shields.io/github/actions/workflow/status/gulpjs/$PROJECT_NAME/dev.yml?branch=master&style=flat-square
+[ci-url]: https://github.com/gulpjs/$PROJECT_NAME/actions/workflows/dev.yml
+[ci-image]: https://img.shields.io/github/actions/workflow/status/gulpjs/$PROJECT_NAME/dev.yml?style=flat-square
 
 [coveralls-url]: https://coveralls.io/r/gulpjs/$PROJECT_NAME
-[coveralls-image]: https://img.shields.io/coveralls/gulpjs/$PROJECT_NAME/master.svg?style=flat-square
+[coveralls-image]: https://img.shields.io/coveralls/gulpjs/$PROJECT_NAME/main.svg?style=flat-square
 <!-- prettier-ignore-end -->
