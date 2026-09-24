@@ -5,10 +5,7 @@
   "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
   "contributors": [],
   "funding": "https://github.com/sponsors/gulpjs",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "repository": "",
   "license": "MIT",
   "engines": {
     "node": ">= 22.15.0"
